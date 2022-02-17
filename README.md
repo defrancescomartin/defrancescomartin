@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defrancescomartin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning at Holberton School
+- 🌱 I’m currently learning at [Holberton School](https://www.holbertonschool.com/)
 - 💞️ I’m looking to be able to become a software developer
 - 📫 My email is 4438@holbertonschool.com
 
