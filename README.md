@@ -37,7 +37,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
 <h2 align="center"> :bar_chart: GitHub stats </h2>
  <br />
 <p align="center">
@@ -47,7 +46,6 @@
  <br />
  <br />
 </p>
-
 
 <!---
 defrancescomartin/defrancescomartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
