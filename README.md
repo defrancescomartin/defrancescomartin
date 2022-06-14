@@ -9,12 +9,12 @@
 </div>
 <h3 align="center">Here you can see all my repositories</h3>
 
-<h3 align="center"> How to contact me 📫📧 </h3>
+<h3 align="center"> How to reach me 📫📧 </h3>
 
 <div align="center">
 
 &ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:defrancescoma@gmail.com)
-&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/martin-de-francesco-ivagnes-640a181b3)
+&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/martin-de-francesco-ivagnes-640a181b3/)
 &ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/martincho_dfi/)
 
 </div>
