@@ -1,5 +1,6 @@
 <h1 align="center">Hello! 👋🏼, I'm Martín De Francesco</h1>
-![Age](https://img.shields.io/badge/age-22-orange?style=for-the-badge)
+<div align="center">
+![Age](https://img.shields.io/badge/age-22-grey?style=for-the-badge)
 <h3 align="center">Here you can see all my repositories</h3>
 
 <h2 align="center"> How to contact me 📫📧 </h2>
