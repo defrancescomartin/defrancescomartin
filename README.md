@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">Here you can see all my repositories</h3>
 
-<h2 align="center"> How to contact me 📫📧 </h2>
+<h3 align="center"> How to contact me 📫📧 </h3>
 
 <div align="center">
 
