@@ -19,7 +19,7 @@
 
 </div>
  
-<h3 align="center"> 💻 Technologies and Tools ⚒️ </h3>
+<h3 align="center"> 💻 Technologies and Tools i've worked with ⚒️ </h3>
 
 <div align="center">
  
