@@ -1,12 +1,11 @@
 <h1 align="center">Hello! 👋🏼, I'm Martín De Francesco</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-</div>
+
 <div align="center">
  
 ![Age](https://img.shields.io/badge/age-23-grey?style=for-the-badge)
 
 </div>
+
 <h3 align="center">Here you can see all my repositories</h3>
 
 <h3 align="center"> How to reach me 📫📧 </h3>
@@ -18,7 +17,7 @@
 
 </div>
  
-<h3 align="center"> 💻 Technologies and Tools i've worked with ⚒️ </h3>
+<h3 align="center"> 💻 Technologies and Tools I've Worked With ⚒️ </h3>
 
 <div align="center">
  
@@ -28,6 +27,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br></br>
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -36,6 +38,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
 <h2 align="center"> :bar_chart: GitHub stats </h2>
  <br />
 <p align="center">
@@ -47,11 +50,6 @@
 </p>
 
 <div align="center">
-Last update 07/02/2024 📅
+Last update 10/09/2024 📅
 
 </div>
-  
-<!---
-defrancescomartin/defrancescomartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
