@@ -2,7 +2,7 @@
 
 <div align="center">
  
-![Age](https://img.shields.io/badge/age-23-grey?style=for-the-badge)
+![Age](https://img.shields.io/badge/age-24-grey?style=for-the-badge)
 
 </div>
 
@@ -50,6 +50,6 @@
 </p>
 
 <div align="center">
-Last update 10/09/2024 📅
+Last update 15/02/2025 📅
 
 </div>
